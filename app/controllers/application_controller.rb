@@ -7,4 +7,3 @@ end
  def hello
     render text: "hello, world!"
   end
-end
